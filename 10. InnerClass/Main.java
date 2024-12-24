@@ -3,7 +3,7 @@ class Outer{
     Outer(String name){
         this.name = name;
     }
-
+ 
     void getName(){
         System.out.println("Your name from outerClass is : " +  name);
     }
